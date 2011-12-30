@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Graphic version="2.0" xmlns="http://ns.adobe.com/fxg/2008"
+	scaleGridLeft="7" scaleGridRight="67" scaleGridTop="6" scaleGridBottom="36">
+
+	<!-- invisible fix for scaling -->
+	<Rect x="0" y="0" width="87" height="42">
+		<fill>
+			<SolidColor color="#ffffff" alpha="0"/>
+		</fill>
+	</Rect>
+
+	<!-- chromeColor fill -->
+      <Path x="1" y="1" winding="nonZero" data="M5 0 67 0C70.187 0 71.5791 2.43457 73.8247 5.25586 73.8608 5.30762 80.6533 14.1328 84.5 19.8906 80.6577 25.6387 73.9351 34.5498 73.8936 34.6104 72.6377 35.8662 70.7041 40.001 66.9663 40.001L5 40C2.24316 40 0 37.7568 0 35L0 5C0 2.24316 2.24316
+ 0 5 0L5 0Z">
+        <fill>
+          <SolidColor color="#484848"/>
+        </fill>
+      </Path>
+</Graphic>
